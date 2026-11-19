@@ -6,6 +6,8 @@ Sensorn mäter hur fuktig luften är.
 På en webbsida kan man se fukten **nu** och **bakåt i tiden**.
 Då kan odlaren lära sig när det blir för fuktigt eller för torrt.
 
+Test
+
 ## Sensorn
 En **fuktsensor**.
 Den mäter hur mycket vatten det finns i luften, i procent.
