@@ -1,14 +1,11 @@
 # Växtkollen
 
 ## Idé
-Vi vill skapa ett smart system som hjälper människor att ta hand om sina krukväxter. En luftfuktighets- och temperatursensor mäter luftfuktigheten och temperaturen runt växten, medan en jordfuktsensor mäter hur fuktig jorden är.
-
-Mätvärdena visas på en webbsida där användaren kan se både aktuell information och tidigare mätningar. På så sätt kan man följa förändringar över tid och lära sig vad växten behöver för att må bra.
+Vi vill skapa ett digitalt system som hjälper människor att ta hand om sina krukväxter. Sensorer mäter jordfuktigheten i krukan och temperaturen där växten står. Mätvärdena visas i en app där användaren kan se både aktuell information och tidigare mätningar. På så sätt kan man följa förändringar över tid och lära sig vad växten behöver för att må bra. Appen kan också skicka ut en notis/påminnelse när jordfuktigheten sjunker under en viss procent och det är dags att vattna.
 
 ## Sensorer
-- Humidity sensor - mäter hur fuktig luften är, i procent
-- Den mäter också temperaturen, eftersom fukt och värme hör ihop
-- Jordfuktsensor - sticks ner i jorden och mäter hur blöt jorden är, i procent
+- Jordfuktsensor - sticks ner i jorden och mäter hur blöt jorden är, i procent.
+- Temperatursensor - mäter temperaturen i luften runt växten.
 
 ## Hur det fungerar
 Sensorerna i krukan skickar data till en liten dator. Den skickar datan via internet till en webbsida. På webbsidan finns diagram.
@@ -52,5 +49,5 @@ Om man har flera olika växter kan man jämföra deras mätvärden och upptäcka
 ## Gruppen
 - Anna Lindblom
 - Abraham Araos
-- Mirav
-- Anton
+- Mirav Said
+- Anton Kumlin
