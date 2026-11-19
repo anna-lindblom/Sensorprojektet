@@ -18,6 +18,10 @@ På sidan ser man:
 - en färg: grön = bra, gul = se upp, röd = dåligt
 - diagram för dagen och veckan
 
+På själva sensorn eller webbsidan kan man ändra hur sensorn ska förhålla sig till fuktighets nivån. Om det till exempel är en växt som behöver mycket vatten så är den mera känslig, eller om det är en växt som inte behöver lika mycket vatten är den mera tålig.
+
+När sensorn märker av att fuktighetsnivån har överskridits så varnar sensorn genom att skicka ett meddelande till användaren för att säga att den behöver mera vatten.
+
 ## Användare
 Någon som har krukväxter hemma, t.ex. en student.
 - är ingen expert på växter
@@ -35,7 +39,7 @@ Därför mäter sensorerna hela dygnet och diagrammet visar skillnaden mellan da
 ## Vad man lär sig
 Genom att följa mätvärdena och diagrammen kan man lära sig mer om växten man tar hand om och förstå vad den behöver för att må bra.
 
-- Man kan till exempel lära sig:
+Man kan till exempel lära sig:
 
 - Hur ofta växten behöver vattnas.
 
