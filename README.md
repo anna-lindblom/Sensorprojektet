@@ -53,4 +53,5 @@ Odlaren **lär sig** och bestämmer själv vad som ska göras.
 ## Gruppen
 - Anna Lindblom
 - Abraham Araos
-- (fler namn)
+- Mirav
+- Anton
