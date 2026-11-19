@@ -33,14 +33,21 @@ Inomhus i en lägenhet eller ett hus. Krukan står ofta i ett fönster. På dage
 Därför mäter sensorerna hela dygnet och diagrammet visar skillnaden mellan dag och natt, och mellan sommar och vinter.
 
 ## Vad man lär sig
-Genom diagrammet kan man t.ex. se att:
-- jorden blir torr efter ca 5 dagar
-- man vattnar för ofta
-- luften blir för torr på vintern när elementen är på
-- det blir torrare mitt på dagen när solen lyser in
-- växten mår bättre på ett annat ställe i rummet
+Genom att följa mätvärdena och diagrammen kan man lära sig mer om växten man tar hand om och förstå vad den behöver för att må bra.
 
-Systemet gör inget själv, det visar bara värdena. Man lär sig själv vad växten behöver.
+Man kan till exempel lära sig:
+
+Hur ofta växten behöver vattnas.
+
+Vilken temperatur och luftfuktighet den trivs bäst i.
+
+Hur växtens behov förändras beroende på årstid och placering.
+
+Skillnader mellan olika växter och vilka förhållanden de trivs bäst i.
+
+Hur snabbt jorden torkar och hur det påverkar växten.
+
+Om man har flera olika växter kan man jämföra deras mätvärden och upptäcka att de har olika behov. Systemet hjälper användaren att förstå sina växter bättre genom att visa information och förändringar över tid. Systemet gör inget själv, det visar bara värdena. Man lär sig själv vad växten behöver.
 
 ## Gruppen
 - Anna Lindblom
