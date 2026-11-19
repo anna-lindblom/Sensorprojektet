@@ -1,54 +1,40 @@
-# Fuktkollen i växthuset
+# Växtkollen
 
-## Vår idé
-Vi sätter en sensor i ett växthus.
-Sensorn mäter hur fuktig luften är.
-På en webbsida kan man se fukten **nu** och **bakåt i tiden**.
-Då kan odlaren lära sig när det blir för fuktigt eller för torrt.
+## Idé
+Vi vill sätta en humidity sensor (luftfuktighetssensor) vid en krukväxt. Sensorn mäter hur fuktig luften runt växten är och vilken temperatur det är. Man kan se värdena på en webbsida, både nu och bakåt i tiden. Då kan man lära sig vad växten behöver.
 
-## Sensorn
-En **fuktsensor**.
-Den mäter hur mycket vatten det finns i luften, i procent.
-Den mäter också värmen, för värme och fukt hör ihop.
+## Sensor
+- Humidity sensor - mäter hur fuktig luften är, i procent
+- Den mäter också temperaturen, eftersom fukt och värme hör ihop
 
-## Så fungerar det
-```
-Sensor → liten dator → internet → webbsida med diagram
-```
-- **Nu:** till exempel "Fukt: 72 %"
-- **Färg:** grönt = bra, gult = se upp, rött = dåligt
-- **Diagram:** fukten under dagen och veckan
+## Hur det fungerar
+Sensorn vid krukan skickar data till en liten dator. Den skickar datan via internet till en webbsida. På webbsidan finns diagram.
 
-## Vem ska använda det?
-En **person som odlar på fritiden** och har ett litet växthus.
-- Personen är ingen expert.
-- Personen är inte i växthuset hela dagen.
-- Personen tittar mest i **mobilen**.
+På sidan ser man:
+- värdena just nu, t.ex. luftfuktighet 45% och 21 grader
+- en färg: grön = bra, gul = se upp, röd = dåligt
+- diagram för dagen och veckan
 
-**Därför gör vi så här:**
-- Vi använder **färger**, inte bara siffror.
-- Vi skriver **korta tips**, till exempel: *"För fuktigt. Öppna dörren en stund."*
-- Sidan ska vara lätt att läsa i mobilen.
+## Användare
+Någon som har krukväxter hemma, t.ex. en student.
+- är ingen expert på växter
+- vet inte vilken luftfuktighet växten behöver
+- använder mest mobilen
 
-## Var ska det användas?
-I ett **växthus ute i trädgården**, i Sverige.
-- På dagen när solen lyser blir luften **torr**.
-- På natten när det är kallt blir luften **fuktig**.
-- Växthuset kan ligga långt från huset.
+Därför vill vi ha färger och korta tips, t.ex. "Luften är för torr, spraya lite vatten på bladen". Sidan ska vara lätt att läsa på mobilen.
 
-**Därför gör vi så här:**
-Sensorn mäter **hela dygnet**.
-Diagrammet visar skillnaden mellan **dag och natt**.
+## Kontext
+Inomhus i en lägenhet eller ett hus. Krukan står ofta i ett fönster. På dagen kan solen göra det varmt och torrt. På vintern är elementen på och då blir luften inomhus väldigt torr.
 
-## Vad lär man sig?
-Odlaren tittar på diagrammet och ser till exempel:
-- *"Det är för fuktigt varje natt. Växterna kan börja mögla."*
-- *"Det blir för torrt mitt på dagen."*
-- *"När jag öppnar dörren på morgonen blir det bättre."*
+Därför mäter sensorn hela dygnet och diagrammet visar skillnaden mellan dag och natt, och mellan sommar och vinter.
 
-Systemet gör ingenting själv.
-Det **visar** bara fukten.
-Odlaren **lär sig** och bestämmer själv vad som ska göras.
+## Vad man lär sig
+Genom diagrammet kan man t.ex. se att:
+- luften blir för torr på vintern när elementen är på
+- det blir torrare mitt på dagen när solen lyser in
+- växten mår bättre på ett annat ställe i rummet
+
+Systemet gör inget själv, det visar bara värdena. Man lär sig själv vad växten behöver.
 
 ## Gruppen
 - Anna Lindblom
