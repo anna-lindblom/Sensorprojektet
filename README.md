@@ -1,7 +1,9 @@
 # Växtkollen
 
 ## Idé
-Vi vill sätta sensorer i en krukväxt. En humidity sensor (luftfuktighetssensor) mäter hur fuktig luften runt växten är och vilken temperatur det är. En jordfuktsensor mäter hur fuktig jorden i krukan är. Man kan se värdena på en webbsida, både nu och bakåt i tiden. Då kan man lära sig vad växten behöver.
+Vi vill skapa ett smart system som hjälper människor att ta hand om sina krukväxter. En luftfuktighets- och temperatursensor mäter luftfuktigheten och temperaturen runt växten, medan en jordfuktsensor mäter hur fuktig jorden är.
+
+Mätvärdena visas på en webbsida där användaren kan se både aktuell information och tidigare mätningar. På så sätt kan man följa förändringar över tid och lära sig vad växten behöver för att må bra.
 
 ## Sensorer
 - Humidity sensor - mäter hur fuktig luften är, i procent
