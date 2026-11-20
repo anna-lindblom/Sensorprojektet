@@ -8,7 +8,7 @@ Vi vill skapa ett digitalt system som hjälper människor att ta hand om sina kr
 - Temperatursensor - mäter temperaturen i luften runt växten.
 
 ## Hur det fungerar
-Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via internet till en app. På appen finns diagram som visualiserar datan.
+Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via internet till en app. I appen finns diagram som visualiserar datan.
 
 ### På sidan ser man:
 - värdena just nu, t.ex. jordfuktigheten 30% och temperaturen 21°C
@@ -17,7 +17,7 @@ Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via int
 
 På själva sensorn eller appen kan man ändra hur sensorn ska förhålla sig till fuktighets nivån. Om det till exempel är en växt som behöver mycket vatten så är den mera känslig, eller om det är en växt som inte behöver lika mycket vatten är den mera tålig.
 
-När sensorn märker av att fuktighetsnivån har överskridits så varnar sensorn genom att skicka ett meddelande till användaren för att säga att den behöver mera vatten.
+När sensorn märker av att fuktighetsnivån ligger för lågt varnar den genom att skicka ett meddelande till användaren om att det är dags att vattna. Likaså om fuktighetsnivån ligger för högt varnar sensorn och skickar ett meddelande om att hålla upp med vattningen ett tag.
 
 ## Användare
 Någon som har krukväxter hemma, t.ex. en student.
