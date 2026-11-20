@@ -15,7 +15,7 @@ Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via int
 - olika färger för olika värden: grön = bra, gul = se upp, röd = dåligt
 - diagram för dagen och veckan (aktuellt och historik)
 
-På själva sensorn eller webbsidan kan man ändra hur sensorn ska förhålla sig till fuktighets nivån. Om det till exempel är en växt som behöver mycket vatten så är den mera känslig, eller om det är en växt som inte behöver lika mycket vatten är den mera tålig.
+På själva sensorn eller appen kan man ändra hur sensorn ska förhålla sig till fuktighets nivån. Om det till exempel är en växt som behöver mycket vatten så är den mera känslig, eller om det är en växt som inte behöver lika mycket vatten är den mera tålig.
 
 När sensorn märker av att fuktighetsnivån har överskridits så varnar sensorn genom att skicka ett meddelande till användaren för att säga att den behöver mera vatten.
 
