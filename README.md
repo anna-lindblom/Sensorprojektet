@@ -8,7 +8,7 @@ Vi vill skapa ett digitalt system som hjälper människor att ta hand om sina kr
 - Temperatursensor - mäter temperaturen i luften runt växten.
 
 ## Hur det fungerar
-Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via internet till en app. På appen finns diagram.
+Sensorerna i och vid krukan skickar data till mobilen. Den skickar datan via internet till en app. På appen finns diagram som visualiserar datan.
 
 ### På sidan ser man:
 - värdena just nu, t.ex. jordfuktigheten 30% och temperaturen 21°C
